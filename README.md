@@ -27,7 +27,7 @@ This project was created as part of the Artiset interview process for the Data S
 ![Spending](total_spending.png)
 
 Note:
-I have added the output CSV data files in the `outdata` folder. Kindly check them for verification.
+I have added the output CSV data files in the `output_data` folder. Kindly check them for verification.
 ![Orders](orders_with_month.csv)
 ![Spending](coustomers_total_spending.csv)
 ## How to run
